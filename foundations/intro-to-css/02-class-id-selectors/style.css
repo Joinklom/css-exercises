@@ -1,0 +1,18 @@
+
+
+.second-element { color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+
+/* Odd Numbers*/
+p { background-color:rgb(255, 172, 176);
+    font:"Verdana", "DejaVu Sans", "sans-serif"; 
+}
+
+#third-element { font-size:24px;
+}
+
+.fourth-element {background-color:rgb(138, 255, 127);
+    font-weight:bold;
+}
