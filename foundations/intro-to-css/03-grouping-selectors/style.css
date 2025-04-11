@@ -1,0 +1,10 @@
+.first-el { background-color: black;
+    color:white;
+}
+
+.second-el {background-color:yellow;
+}
+
+button {font-size:28px;
+    font:"Helvetica", "Times New Roman", sans-serif;
+}
